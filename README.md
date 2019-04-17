@@ -8,7 +8,7 @@ This can be used, for example, to remove certain syntax not supported by esdoc.
 ## Install and usage
 
 ```sh
-npm install --save-dev mhelvens/esdoc-babel-plugin
+npm install --save-dev ryanspice/esdoc-babel-plugin
 ```
 
 Make sure you also install `babel-core` (version 6 or higher) and
