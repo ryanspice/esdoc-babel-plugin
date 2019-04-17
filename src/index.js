@@ -1,4 +1,4 @@
-var babel = require('babel-core');
+var babel = require('@babel/core');
 
 var babelOptions;
 
